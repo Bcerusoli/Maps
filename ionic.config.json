@@ -1,0 +1,7 @@
+{
+  "name": "mapsControl",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
